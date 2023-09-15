@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Distribución de Empresas Unicornio</title>
+
 </head>
 <body>
     <h1>Distribución de Empresas Unicornio</h1>
